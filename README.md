@@ -4,7 +4,8 @@ BME280 為一個環境偵測的 Sensor，可以提供溫度、濕度、及大氣
 ![image](https://github.com/CalvinHoMicrochip/AVR128DA48-BME280-On-APP-All-MCU-2023/assets/20454551/b9c39221-4d48-4ccc-b01b-42e4b1b12158)
 
 
-![image](https://github.com/CalvinHoMicrochip/AVR128DA48-BME280-On-APP-All-MCU-2023/assets/20454551/e9ee223a-bb94-445a-b3d9-6bf59c5e70a4)
+![image](https://github.com/CalvinHoMicrochip/AVR128DA48-BME280-On-APP-All-MCU-2023/assets/20454551/8fbd6424-25ef-4a63-a91d-7db2987de98d)
+
 
 
 ![image](https://github.com/CalvinHoMicrochip/AVR128DA48-BME280-On-APP-All-MCU-2023/assets/20454551/0ca255f5-8f40-4669-a9b9-96db2d16869f)
